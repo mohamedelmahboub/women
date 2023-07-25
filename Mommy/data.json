@@ -1,0 +1,76 @@
+{
+    "ads" : [
+        {
+            "demo" : "false",
+            "activate_ads" : "true",
+            "activate_inter" : "on",
+            "activate_banner" : "on",
+            
+            "network" : "fan",
+
+            "one_signal" : "a02e4b65-21e7-4282-a341-bfafff9d670e",
+            
+            "admob_ban": "",
+            "admob_native" : "",
+            "admob_int": "",
+            "admob_rewarded": "",
+
+            "yandex_ban" : "",
+            "yandex_native" : "",
+            "yandex_int" : "",
+            "yandex_rewarded" : "",
+
+            "fan_ban": "983007989790186_983008699790115",
+            "fan_native": "983007989790186_983008836456768",
+            "fan_int": "983007989790186_983008806456771",
+            "fan_rewarded": "983007989790186_983008873123431",
+
+            "iron_key": "",
+            "iron_ban" : "",
+            "iron_int" : "",
+            "iron_rewarded" : "",
+
+            "ad_image" : "https://i.pinimg.com/originals/06/9d/61/069d617dca720be2d65014963515d28e.gif",
+            "ad_link" : "https://play.google.com/store/apps/details?id=com.skibidcall.faketoillet",
+
+            "ad_score_amount" : 1,
+            "ad_game_minutes" : 1,
+            "ad_int_interval" : 1,
+            "score_rating_reward" : 5,
+
+            "orientation": "portrait",
+            "game_link": "https://html5.gamemonetize.co/c6w7h4odio0j0lv6r9rhwz7k2pokqfi2/",
+
+            "update_app_activate": "false",
+            "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+
+    "more" : [
+        {
+            "name" : "Yes or No?! - Food Pranks",
+            "ico" : "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        }
+
+    ],
+
+    "slider" : [
+        {
+            "image" : "https://cdna.artstation.com/p/assets/images/images/030/699/992/large/tanya-grineva-194004-3-147-142240-dragons-wa9.jpg?1601391035",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://papyrus.greenville.edu/wp-content/uploads/2017/02/rsz_clash-royale.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://mytona.com/images/imperavi/article/5e05f667acdc3.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        },
+        {
+            "image" : "https://i.ytimg.com/vi/5zZmpYzvAYA/maxresdefault.jpg",
+            "link" : "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+        }
+    ]
+}
