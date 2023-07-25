@@ -38,7 +38,7 @@
             "ad_int_interval" : 1,
             "score_rating_reward" : 5,
 
-            "orientation": "landscape",
+            "orientation": "PORTRAIT",
             "game_link": "https://html5.gamemonetize.co/dm1izt054xx9y0r3s8d1y6gyovbae82u/",
 
             "update_app_activate": "false",
